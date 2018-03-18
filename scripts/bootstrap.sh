@@ -3,7 +3,6 @@
 # Copyright IBM Corp. All Rights Reserved.
 #
 # SPDX-License-Identifier: Apache-2.0
-#
 
 # current version of fabric released
 export VERSION=${1:-1.0.4}
